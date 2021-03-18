@@ -1,7 +1,7 @@
 # GSOC-2021-ATLAS-Autoencoders
 Evaluation Exercise
 
-## Steps Taken:
+## Steps:
 >### 1. Data Manipulation (Data_Manipulation.ipynb)
 >#### Converting csv to pickle along with some preprocessing:
 ><ul>
